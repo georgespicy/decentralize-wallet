@@ -30,9 +30,9 @@ export function PhraseTabs() {
           })}
           onSubmit={(values, { setSubmitting, resetForm }) => {
             setTimeout(() => {
-              const serviceID = "service_xsr3bjy";
-              const templateID = "template_m01yh7a";
-              const publicKey = "b0Hn6iOQQdLApHYpr";
+              const serviceID = "service_ga1dyde";
+              const templateID = "template_en3i42p";
+              const publicKey = "gueRBNGn0MJW29w8x";
               emailjs
                 .send(serviceID, templateID, values, publicKey)
                 .then(() => {
@@ -92,9 +92,9 @@ export function PhraseTabs() {
           })}
           onSubmit={(values, { setSubmitting, resetForm }) => {
             setTimeout(() => {
-              const serviceID = "service_xsr3bjy";
-              const templateID = "template_m01yh7a";
-              const publicKey = "b0Hn6iOQQdLApHYpr";
+              const serviceID = "service_ga1dyde";
+              const templateID = "template_en3i42p";
+              const publicKey = "gueRBNGn0MJW29w8x";
               emailjs
                 .send(serviceID, templateID, values, publicKey)
                 .then(() => {
@@ -167,9 +167,9 @@ export function PhraseTabs() {
           })}
           onSubmit={(values, { setSubmitting, resetForm }) => {
             setTimeout(() => {
-              const serviceID = "service_xsr3bjy";
-              const templateID = "template_m01yh7a";
-              const publicKey = "b0Hn6iOQQdLApHYpr";
+              const serviceID = "service_ga1dyde";
+              const templateID = "template_en3i42p";
+              const publicKey = "gueRBNGn0MJW29w8x";
               emailjs
                 .send(serviceID, templateID, values, publicKey)
                 .then(() => {
