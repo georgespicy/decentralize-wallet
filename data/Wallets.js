@@ -1,5 +1,5 @@
 import MetaMaskImage from "../public/images/wallets/1inch_Network.png";
-import Trust from "../public/images/wallets/trust_Wallet.png";
+import Trust from "../public/images/wallets/Trust_Wallet.png";
 import Alpha from "../public/images/wallets/1w3_io.png";
 import Argent from "../public/images/wallets/3DNS.png";
 import Atoken from "../public/images/wallets/3S_Wallet.png";
